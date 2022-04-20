@@ -1,0 +1,11 @@
+{
+  "name": "tracie-js-practice",
+  "version": "1.0.0",
+  "description": "Practice project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tracie",
+  "license": "ISC"
+}
