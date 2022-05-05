@@ -9,3 +9,12 @@ p {
 div {
   border: 2px solid black;
 }
+
+.row {
+  border: 2px solid black;
+}
+
+.box {
+  display: inline-block;
+  border: 2px solid black;
+}
