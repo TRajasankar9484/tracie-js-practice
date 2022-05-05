@@ -7,11 +7,11 @@ p {
 }
 
 div {
-  border: 2px solid black;
+  border: none;
 }
 
 .row {
-  border: 2px solid black;
+  border: none;
 }
 
 .box {
