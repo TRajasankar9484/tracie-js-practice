@@ -14,7 +14,9 @@
 
     <script class="mocha-init">
       mocha.setup('bdd');
-      mocha.checkLeaks();
+      //mocha.setup({globals: ['add']});
+   
+      //mocha.checkLeaks();
       let assert = chai.assert;
     </script>
     <script src="./functions.js"></script>
